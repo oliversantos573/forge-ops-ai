@@ -43,6 +43,9 @@ An enterprise-grade, AI-native, open source platform for building autonomous eng
 # Overview
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
+![img_3.png](img_3.png)
+![img_4.png](img_4.png)
+![img_5.png](img_5.png)
 # 🌍 Vision
 
 ForgeOps is an **AI-Native Engineering Platform** that unifies Artificial Intelligence, autonomous agents, enterprise workflows, cloud-native infrastructure, and developer tooling into a single extensible ecosystem.
