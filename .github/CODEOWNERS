@@ -1,0 +1,237 @@
+# ForgeOps CODEOWNERS
+
+# ==========================================================
+
+# CODEOWNERS Configuration
+
+# ==========================================================
+
+#
+
+# This file defines the default reviewers for Pull Requests.
+
+#
+
+# Location:
+
+#
+
+# .github/CODEOWNERS
+
+#
+
+# GitHub automatically requests reviews from the owners
+
+# associated with changed files.
+
+#
+
+# Replace placeholders with real GitHub usernames or teams.
+
+#
+
+# Example:
+
+#
+
+# @forgeops/core-team
+
+#
+
+# ==========================================================
+
+# ==========================================================
+
+# Global Ownership
+
+# ==========================================================
+
+#
+
+# Default reviewers for changes that do not match
+
+# a specific rule.
+
+#
+
+* @forgeops-maintainers
+
+# ==========================================================
+
+# Documentation
+
+# ==========================================================
+
+/docs/ @forgeops-documentation
+
+# ==========================================================
+
+# Architecture
+
+# ==========================================================
+
+/docs/architecture/ @forgeops-architects
+
+/docs/adr/ @forgeops-architects
+
+# ==========================================================
+
+# Platform Core
+
+# ==========================================================
+
+/platform/ @forgeops-platform
+
+# ==========================================================
+
+# Applications
+
+# ==========================================================
+
+/apps/ @forgeops-platform
+
+# ==========================================================
+
+# AI Platform
+
+# ==========================================================
+
+/agents/ @forgeops-ai
+
+/packages/ai/ @forgeops-ai
+
+# ==========================================================
+
+# Agent Runtime
+
+# ==========================================================
+
+/agents/runtime/ @forgeops-agent-team
+
+# ==========================================================
+
+# Workflow Engine
+
+# ==========================================================
+
+/workflows/ @forgeops-workflow-team
+
+# ==========================================================
+
+# MCP Platform
+
+# ==========================================================
+
+/mcp/ @forgeops-mcp-team
+
+# ==========================================================
+
+# Integrations and Connectors
+
+# ==========================================================
+
+/connectors/ @forgeops-integrations
+
+/integrations/ @forgeops-integrations
+
+# ==========================================================
+
+# SDKs
+
+# ==========================================================
+
+/sdk/ @forgeops-sdk-team
+
+# ==========================================================
+
+# Infrastructure
+
+# ==========================================================
+
+/infrastructure/ @forgeops-infrastructure
+
+/docker/ @forgeops-infrastructure
+
+/kubernetes/ @forgeops-infrastructure
+
+/terraform/ @forgeops-infrastructure
+
+# ==========================================================
+
+# Security
+
+# ==========================================================
+
+/security/ @forgeops-security
+
+/.github/ @forgeops-maintainers
+
+# ==========================================================
+
+# Testing
+
+# ==========================================================
+
+/tests/ @forgeops-quality
+
+# ==========================================================
+
+# Build System
+
+# ==========================================================
+
+/pom.xml @forgeops-platform
+
+/**/pom.xml @forgeops-platform
+
+# ==========================================================
+
+# API Specifications
+
+# ==========================================================
+
+/api/ @forgeops-api
+
+/openapi/ @forgeops-api
+
+# ==========================================================
+
+# Database
+
+# ==========================================================
+
+/database/ @forgeops-data
+
+# ==========================================================
+
+# Observability
+
+# ==========================================================
+
+/observability/ @forgeops-sre
+
+# ==========================================================
+
+# Deployment
+
+# ==========================================================
+
+/deployment/ @forgeops-sre
+
+# ==========================================================
+
+# Scripts and Automation
+
+# ==========================================================
+
+/scripts/ @forgeops-devops
+
+# ==========================================================
+
+# Release Management
+
+# ==========================================================
+
+/CHANGELOG.md @forgeops-release
+
+/ROADMAP.md @forgeops-maintainers

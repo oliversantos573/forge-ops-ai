@@ -1,0 +1,36 @@
+blank_issues_enabled: false
+
+contact_links:
+
+  - name: "💬 ForgeOps Discussions"
+    url: "https://github.com/<organization>/forgeops/discussions"
+    about: "Ask questions, discuss ideas, and share knowledge with the community."
+
+  - name: "🔒 Security Vulnerability Report"
+    url: "https://github.com/<organization>/forgeops/security/advisories"
+    about: "Report security vulnerabilities privately."
+
+  - name: "📚 Documentation"
+    url: "https://github.com/<organization>/forgeops/tree/main/docs"
+    about: "Read the official ForgeOps documentation."
+
+  - name: "🛠 Contribution Guide"
+    url: "https://github.com/<organization>/forgeops/blob/main/CONTRIBUTING.md"
+    about: "Learn how to contribute to ForgeOps."
+contact_links:
+
+  - name: "💬 ForgeOps Discussions"
+    url: "https://github.com/<organization>/forgeops/discussions"
+    about: "Ask questions, discuss ideas, and share knowledge with the community."
+
+  - name: "🔒 Security Vulnerability Report"
+    url: "https://github.com/<organization>/forgeops/security/advisories"
+    about: "Report security vulnerabilities privately."
+
+  - name: "📚 Documentation"
+    url: "https://github.com/<organization>/forgeops/tree/main/docs"
+    about: "Read the official ForgeOps documentation."
+
+  - name: "🛠 Contribution Guide"
+    url: "https://github.com/<organization>/forgeops/blob/main/CONTRIBUTING.md"
+    about: "Learn how to contribute to ForgeOps."
