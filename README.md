@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="./assets/images/banner.png" alt="ForgeOps Banner" width="100%">
+
 </p>
 
 <h1 align="center">
